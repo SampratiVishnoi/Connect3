@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         this.s = "";
         this.ss = "";
         ((TextView) findViewById(R.id.textView)).setText("");
+        System.out.println("anvesha");
+         System.out.println("sam");
     }
 
     public void sev(View view) {
